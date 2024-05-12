@@ -55,3 +55,4 @@ If you have any questions or comments about the project, feel free to contact me
 ```
 
 This README covers the basics: installation, usage, contribution guidelines, license, acknowledgements, and contact information. You can add or remove sections as needed for your specific project. Remember, the goal is to provide clear instructions and information so that users and contributors can easily understand and engage with your project.
+regards
